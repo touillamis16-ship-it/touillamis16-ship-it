@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Lamis.
 
-<!--
-**touillamis16-ship-it/touillamis16-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student interested in programming, problem-solving, and software development.
 
-Here are some ideas to get you started:
+### Currently Learning
+- Programming fundamentals
+- Algorithms and data structures
+- Software engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies
+- C
+- Git & GitHub
+
+### Philosophy
+Driven by curiosity, guided by logic.
+
+---
+
+Always learning. Always improving.
