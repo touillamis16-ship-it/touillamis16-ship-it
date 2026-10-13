@@ -1,19 +1,18 @@
-# Hi, I'm Lamis.
+# Lamis
+### Computer Science Student
 
-Computer Science student interested in programming, problem-solving, and software development.
+Interested in software development, algorithms, and problem-solving.
 
-### Currently Learning
-- Programming fundamentals
-- Algorithms and data structures
-- Software engineering
+### Languages & Technologies
 
-### Technologies
-- C
-- Git & GitHub
+C · Python · Java · JavaScript · HTML · CSS · PHP
 
-### Philosophy
-Driven by curiosity, guided by logic.
+### Areas of Interest
+
+- Software Development
+- Web Development
+- Algorithms & Data Structures
 
 ---
 
-Always learning. Always improving.
+Learning through practice and building projects.
